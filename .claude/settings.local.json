@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(./mvnw compile:*)",
+      "Bash(./mvnw clean:*)",
+      "Bash(./mvnw dependency:tree:*)"
+    ]
+  }
+}
